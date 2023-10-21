@@ -24,3 +24,5 @@
 ## `SEMANA 8` | 04.12 - 08.12 - SPRINT FINAL
 
 ## `SEMANA 9` | 11.12 - 15.12 - APRESENTAÇÃO E ENTREGA
+
+Inspiração: https://dribbble.com/
