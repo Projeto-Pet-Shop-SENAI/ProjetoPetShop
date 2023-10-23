@@ -7,7 +7,7 @@
 - ### Nome da Marca ✅
 - ### Logo ✅
 - ### Iniciar Figma ✅
-- ### Análise dos critérios
+- ### Análise dos critérios 
 
 ## `SEMANA 2` | 23.10 - 27.10 - SPRINT I
 - ### Definição do tema do Projeto
@@ -15,6 +15,7 @@
 - ### Início do código | Front-End
 - ### Decisões sobre Design das páginas
 - ### Pesquisa sobre design | banco de dados | Integração com banco de dados
+- ### Aprendendo versionamento com GitHub
 
 ## `SEMANA 3` | 30.10 - 01.11
 
