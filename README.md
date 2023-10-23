@@ -7,7 +7,7 @@
 - ### Nome da Marca ✅
 - ### Logo ✅
 - ### Iniciar Figma ✅
-- ### Análise dos critérios 
+- ### Análise dos critérios https://docs.google.com/document/d/1IiTYOE_4zdW8d32duOPAI66vpmHdooxx4M6nswpHXts/edit
 
 ## `SEMANA 2` | 23.10 - 27.10 - SPRINT I
 - ### Definição do tema do Projeto
