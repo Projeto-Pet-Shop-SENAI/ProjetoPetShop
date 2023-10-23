@@ -2,14 +2,19 @@
 
 ## `SEMANA 1` |  16.10 - 20.10 
 - ### Slogan ✅
-- ### Público Alvo
+- ### Público Alvo 
 - ### Paleta de Cores ✅
 - ### Nome da Marca ✅
 - ### Logo ✅
+- ### Iniciar Figma ✅
+- ### Análise dos critérios
 
 ## `SEMANA 2` | 23.10 - 27.10 - SPRINT I
 - ### Definição do tema do Projeto
 - ### Concluir Figma
+- ### Início do código | Front-End
+- ### Decisões sobre Design das páginas
+- ### Pesquisa sobre design | banco de dados | Integração com banco de dados
 
 ## `SEMANA 3` | 30.10 - 01.11
 
