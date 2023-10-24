@@ -5,12 +5,21 @@
 </p>
 
 ## `PROPOSTA` :  
-## `OBJETIVO` :
+## `OBJETIVO` 🎯:
 
 
-## `MARCA` : ANIMALIA SHOP
+## `MARCA` 💡 : 
+### ANIMALIA 
 
-## `PÚBLICO-ALVO` : 
+## `PÚBLICO-ALVO` :
+### - Donos de Animais de Estimação:
+### - Donos de Animais Especiais:
+### - Treinadores:
+### - Donos de Cavalos de Corrida:
+### - Entusiastas de esporte de animais:
+### - Donos de Animais com problemas Comportamentais:
+### - Pessoas que buscam produtos para seus Bichinhos:
+
 
 ## `lOGO` 
 <p align="left">
@@ -29,7 +38,7 @@
 `#A8B16B`
 `#4E6424`
 
-## `FUNCIONALIDADES` 🛠 :
+## `FUNCIONALIDADES` ⚔ :
 ### - Inserir gifs do site funcionando 
 
 ## `TECNOLOGIAS` 🛠 :
