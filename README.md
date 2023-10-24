@@ -1,6 +1,7 @@
 <h1 align="center"> CRONOGRAMA DE ATIVIDADES 📅 </h1>
 
 ## `SEMANA 1` |  16.10 - 20.10 
+- ### Briefing ✅
 - ### Slogan ✅
 - ### Público Alvo 
 - ### Paleta de Cores ✅
@@ -9,15 +10,19 @@
 - ### Iniciar Figma ✅
 - ### Análise dos critérios https://docs.google.com/document/d/1IiTYOE_4zdW8d32duOPAI66vpmHdooxx4M6nswpHXts/edit
 
+
 ## `SEMANA 2` | 23.10 - 27.10 - SPRINT I
 - ### Definição do tema do Projeto
 - ### Concluir Figma
-- ### Início do código | Front-End
+- ### Início do código | Front-End | Página Index 
 - ### Decisões sobre Design das páginas
 - ### Pesquisa sobre design | banco de dados | Integração com banco de dados
 - ### Aprendendo versionamento com GitHub
 
 ## `SEMANA 3` | 30.10 - 01.11
+- ### Iniciar o FrontEnd | BackEnd da página de Login
+- ### Iniciar o FrontEnd | BackEnd da página de cadastro
+- ### Criação das Tabelas no banco de dados | MySQL
 
 ## `SEMANA 4` | 06.11 - 10.11 - SPRINT II
 
