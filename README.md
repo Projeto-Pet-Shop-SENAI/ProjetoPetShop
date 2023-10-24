@@ -8,13 +8,15 @@
 - ### Logo ✅
 - ### Iniciar Figma ✅
 - ### Análise dos critérios
+- ### Briefing ✅
 
 ## `SEMANA 2` | 23.10 - 27.10 - SPRINT I
 - ### Definição do tema do Projeto
 - ### Concluir Figma
-- ### Início do código | Front-End
+- ### Início do código | Front-End | Página Main (Index)
 - ### Decisões sobre Design das páginas
 - ### Pesquisa sobre design | banco de dados | Integração com banco de dados
+- ### 
 
 ## `SEMANA 3` | 30.10 - 01.11
 
