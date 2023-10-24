@@ -46,3 +46,7 @@
 ### - FrontEnd: Angular ( Html | Css | TypeScript )
 ### - BackEnd: PHP ( Laravel )
 ### - Banco de Dados: MySQL
+
+## `AUTORES`
+| [<img loading="lazy" src="" width=115><br><sub>Leticia</sub>]() |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/123770371?v=4" width=115><br><sub>Rafael Moura</sub>](https://github.com/rafaelmoura23) |  [<img loading="lazy" src="" ><br><sub>Matheus</sub>]() |
+| :---: | :---: | :---: |
