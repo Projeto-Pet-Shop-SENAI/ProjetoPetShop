@@ -6,6 +6,9 @@
 
 ## `PROPOSTA` :  
 ## `OBJETIVO` 🎯:
+### - Criar um website completo com diversas funcionalidades e proporcionar ao cliente uma experiência agradável que faça com que ele visite o nosso site mais vezes.
+### - Implementar um site com uma mistura de PetShop com Haras 🧐 `COMO ASSIM?`
+### - Criar uma página de venda de produtos de PetShop, porém oferecer treinamentos para animais, incluindo cavalos e também no PetShop incluir produtos para animais mais "selvagens|robustos" como é o cavalo.
 
 
 ## `MARCA` 💡 : 
