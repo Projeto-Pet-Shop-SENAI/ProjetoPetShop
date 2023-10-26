@@ -31,7 +31,7 @@
 #### - https://www.figma.com/file/KY6Jgnkwpvw9S8JeVxxQOP/Untitled?type=design&node-id=0-1&mode=design&t=Y7q5h8RFLVNVCtlX-0
 #### - https://www.figma.com/file/Bf5kXF8vOyGe4P697nzNys/Untitled?type=design&mode=design&t=Y7q5h8RFLVNVCtlX-0
 
-## `PALETA DE CORES` 🎨 : 
+## `IDENTIDADE VISUAL` 🎨 : 
 `#EE9C2E`
 `#F1DEC3`
 `#F28E36`
@@ -39,7 +39,15 @@
 `#4E6424`
 
 ## `FUNCIONALIDADES` ⚔ :
-### - Inserir gifs do site funcionando 
+### - PÁGINA INDEX (FRONT):
+### - PÁGINA DE LOGIN (FRONT|BACK):
+### - PÁGINA DE CADASTRO (FRONT|BACK):
+### - PÁGINA DE CONSULTAS (FRONT|BACK):
+### - PÁGINA DE AGENDAMENTO DE CONSULTAS (FRONT|BACK):
+### - PÁGINA DE PRODUTOS (CARRINHO DE COMPRAS (JavaScript)) (FRONT|BACK):
+### - PÁGINA DE CHECKOUT (BUY) (FRONT|BACK):
+
+### - *Inserir gifs do site funcionando 
 
 ## `TECNOLOGIAS` 🛠 :
 ### - Versionamento de código: GitHub
