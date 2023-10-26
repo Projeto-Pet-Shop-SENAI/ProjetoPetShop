@@ -52,7 +52,7 @@
 | :---: | :---: | :---: |
 
 ## `EXPECTATIVAS 🧠`
-### Criar um website completo que atenda todas as expectativas propostas pelos Professores:
+### Criar um website completo que atenda todas as `expectativas propostas pelos Professores`:
 #### - Site Responsivo
 #### - Interface Agradável (UX|UI)
 #### - Design Estético (UX|UI)
@@ -62,6 +62,10 @@
 #### - Testes e depuração
 #### - Documentação do processo
 
-### Criar um website completo que atenda todas as expectativas propostas pelos integrantes do Grupo:
+### Criar um website completo que atenda todas as `expectativas propostas pelos integrantes do Grupo`:
 #### - Site Minimalista
 #### - Modos de Cor (Modo Escuro) em pelo menos uma página
+#### - Implementação de animações suaves
+#### - Validação de entradas (banco de dados)
+#### - Trabalho forte em grupo
+#### - 
