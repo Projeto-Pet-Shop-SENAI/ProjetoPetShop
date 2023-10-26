@@ -12,7 +12,7 @@
 
 
 ## `MARCA` 💡 : 
-### ANIMALIA 
+## ANIMALIA 
 
 ## `PÚBLICO-ALVO` :
 ### - Donos de Animais de Estimação:
