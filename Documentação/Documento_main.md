@@ -50,3 +50,18 @@
 ## `AUTORES`
 | [<img loading="lazy" src="" width=115><br><sub>Leticia</sub>]() |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/123770371?v=4" width=115><br><sub>Rafael Moura</sub>](https://github.com/rafaelmoura23) |  [<img loading="lazy" src="" ><br><sub>Matheus</sub>]() |
 | :---: | :---: | :---: |
+
+## `EXPECTATIVAS 🧠`
+### Criar um website completo que atenda todas as expectativas propostas pelos Professores:
+#### - Site Responsivo
+#### - Interface Agradável (UX|UI)
+#### - Design Estético (UX|UI)
+#### - Integração de APIs
+#### - Bom uso de Frameworks para Front e Back End
+#### - Compatibilidade com todos os navegadores
+#### - Testes e depuração
+#### - Documentação do processo
+
+### Criar um website completo que atenda todas as expectativas propostas pelos integrantes do Grupo:
+#### - Site Minimalista
+#### - Modos de Cor (Modo Escuro) em pelo menos uma página
