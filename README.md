@@ -12,7 +12,7 @@
 
 
 ## `SEMANA 2` | 23.10 - 27.10 - SPRINT I
-- ### Definição do tema do Projeto
+- ### Definição do tema do Projeto ✅
 - ### Concluir Figma
 - ### Início do código | Front-End | Página Index ✅
 - ### Decisões sobre Design das páginas ✅
@@ -21,9 +21,9 @@
 
 ## `SEMANA 3` | 30.10 - 01.11
 - ### Iniciar o FrontEnd | BackEnd da página de Login
-- ### Iniciar o FrontEnd | BackEnd da página de cadastro
+- ### Iniciar o FrontEnd | BackEnd da página de Cadastro
 - ### Criação das Tabelas no banco de dados | MySQL
-- ### Terminar a Página Index de acordo com o figma
+- ### Terminar a Página Index de acordo com o Figma
 - ### Criar todas as Rotas das páginas
 - ###
 
