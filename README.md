@@ -25,7 +25,7 @@
 - ### Criação das Tabelas no banco de dados | MySQL
 - ### Terminar a Página Index de acordo com o Figma
 - ### Criar todas as Rotas das páginas
-- ###
+- ### Documentação mais Robusta
 
 ## `SEMANA 4` | 06.11 - 10.11 - SPRINT II
 
