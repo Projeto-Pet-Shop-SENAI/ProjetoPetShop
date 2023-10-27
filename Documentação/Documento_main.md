@@ -2,14 +2,17 @@
 
 <p align="center">
     <img src="https://i.pinimg.com/originals/99/9f/6a/999f6a0b233dc991581ea9ee303d24b6.gif" height="400" tittle="logo_animalia">
-</p>
+</p> 
 
 ## `PROPOSTA` :  
+
 ## `OBJETIVO` 🎯:
 ### - Criar um website completo com diversas funcionalidades e proporcionar ao cliente uma experiência agradável que faça com que ele visite o nosso site mais vezes.
 ### - Implementar um site com uma mistura de PetShop com Haras 🧐 `COMO ASSIM?`
 ### - Criar uma página de venda de produtos de PetShop, porém oferecer treinamentos para animais, incluindo cavalos e também no PetShop incluir produtos para animais mais "selvagens|robustos" como é o cavalo.
 
+## `TRABALHO EM GRUPO`
+## - [Trello](https://trello.com/b/7hb7htn4/projeto-pwbe-pwfe-2023)
 
 ## `MARCA` 💡 : 
 ## ANIMALIA 
@@ -31,15 +34,15 @@
 </p>
 
 ## `FIGMA` 🎨 : 
-#### - https://www.figma.com/file/KY6Jgnkwpvw9S8JeVxxQOP/Untitled?type=design&node-id=0-1&mode=design&t=Y7q5h8RFLVNVCtlX-0
-#### - https://www.figma.com/file/Bf5kXF8vOyGe4P697nzNys/Untitled?type=design&mode=design&t=Y7q5h8RFLVNVCtlX-0
+### - [Login | Cadastro | Agendamento | Consultas ](https://www.figma.com/file/KY6Jgnkwpvw9S8JeVxxQOP/Untitled?type=design&node-id=0-1&mode=design&t=Y7q5h8RFLVNVCtlX-0)
+### - [Página Principal | Produtos ](https://www.figma.com/file/Bf5kXF8vOyGe4P697nzNys/Untitled?type=design&mode=design&t=Y7q5h8RFLVNVCtlX-0)
 
 ## `IDENTIDADE VISUAL` 🎨 : 
-`#EE9C2E`
-`#F1DEC3`
-`#F28E36`
-`#A8B16B`
-`#4E6424`
+- `#EE9C2E`
+- `#F1DEC3`
+- `#F28E36`
+- `#A8B16B`
+- `#4E6424`
 
 ## `FUNCIONALIDADES` ⚔ :
 ### - PÁGINA INDEX (FRONT):
@@ -73,10 +76,13 @@
 #### - Testes e depuração
 #### - Documentação do processo
 
-### Criar um website completo que atenda todas as `expectativas propostas pelos integrantes do Grupo`:
+### Criar um website completo que atenda todas as `expectativas dos integrantes do Grupo`:
 #### - Site Minimalista
 #### - Modos de Cor (Modo Escuro) em pelo menos uma página
 #### - Implementação de animações suaves
 #### - Validação de entradas (banco de dados)
 #### - Trabalho forte em grupo
-#### - 
+
+<p align="center">
+    <img src="https://imagens.mdig.com.br/thbs/45184mn.jpg" height="400" tittle="logo_animalia">
+</p> 
