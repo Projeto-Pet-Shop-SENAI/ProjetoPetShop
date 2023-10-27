@@ -24,7 +24,7 @@
 - ### Iniciar o FrontEnd | BackEnd da página de Cadastro
 - ### Criação das Tabelas no banco de dados | MySQL
 - ### Terminar a Página Index de acordo com o Figma
-- ### Criar todas as Rotas das páginas
+- ### Criar todas as Rotas das páginas (Angular)
 - ### Documentação mais Robusta
 
 ## `SEMANA 4` | 06.11 - 10.11 - SPRINT II
