@@ -45,15 +45,14 @@
 - `#4E6424`
 
 ## `FUNCIONALIDADES` ⚔ :
-### - PÁGINA INDEX (FRONT):
-### - PÁGINA DE LOGIN (FRONT|BACK):
-### - PÁGINA DE CADASTRO (FRONT|BACK):
-### - PÁGINA DE CONSULTAS (FRONT|BACK):
-### - PÁGINA DE AGENDAMENTO DE SERVIÇOS (FRONT|BACK):
-### - CATÁLOGO DE PRODUTOS (CARRINHO DE COMPRAS (JavaScript)) (FRONT|BACK):
-### - PÁGINA DE CHECKOUT (BUY) (FRONT|BACK):
+### - Index (FRONT):
+### - Login (FRONT|BACK):
+### - Cadastro (FRONT|BACK):
+### - Agendamento de Serviços (FRONT|BACK):
+### - Catálogo de Produtos (Carrinho de Compras (JavaScript)) (FRONT|BACK):
+### - Checkout (with API) (BUY) (FRONT|BACK):
 
-### - *Inserir gifs do site funcionando 
+** ### - *Inserir gifs do site funcionando **
 
 ## `TECNOLOGIAS` 🛠 :
 ### - Versionamento de código: GitHub
