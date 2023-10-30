@@ -28,13 +28,13 @@ body{
 }
 
 .boxAll{
-    width: 900px;
-    height: 600px;
+    width: 1000px;
+    height: 650px;
 }
 
 .wrapper{
     width: 430px;
-    height: 500px;
+    height: 650px;
     background-color: #F28E36;
     box-shadow: 0 0 10px rgba(0, 0, 0, .2);
     color: rgb(0, 0, 0);
@@ -45,8 +45,8 @@ body{
 }
 
 .imagem img{
-    width:470px;
-    height: 500px;
+    width:570px;
+    height: 650px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
