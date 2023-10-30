@@ -16,6 +16,17 @@ body{
 }
 
 
+.otherRegister{
+    width: 1px;
+    height: 1px;
+}
+
+.otherRegister{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
 .boxAll{
     width: 900px;
     height: 600px;
