@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <title>Cadastro</title>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="cadastro.css">
 </head>
 
 <body>
@@ -19,18 +19,37 @@
                     <div class="boxAll">
 
                         <div class="imagem">
-                            <img src="/Imagens/logo_modified.png" alt="pngAnimals">
+                            <img src="/Componentes/img/cadastro.png" alt="pngAnimals">
                     <div class="wrapper">
                         <form action="" method="POST">
-                            <h1>Login</h1>
+                            <h1>Cadastro</h1>
+
+                            <div class="input-box">
+                                <input type="name" name="name" placeholder="Your Complete Name" required>
+                                <i class='bx bxs-lock-alt'></i>
+                            </div>
+
+                            <div class="input-box">
+                                <input type="cpf" name="cpf" placeholder="Your CPF" required>
+                                <i class='bx bxs-lock-alt'></i>
+                            </div>
+
                             <div class="input-box">
                                 <input name="usuario" name="text" placeholder="Username" required>
                                 <i class='bx bxs-user'></i>
                             </div>
+
                             <div class="input-box">
                                 <input type="password" name="senha" placeholder="Password" required>
                                 <i class='bx bxs-lock-alt'></i>
                             </div>
+
+                            <div class="input-box">
+                                <input type="passwordConfirme" name="senhaDois" placeholder="Confirme your Password" required>
+                                <i class='bx bxs-lock-alt'></i>
+                            </div>
+
+
 
                             <div class="remember-forgot">
                                 <label> <input type="checkbox">Remember me</label>
@@ -40,7 +59,7 @@
                             <button type="submit" class="btn">Login</button>
 
                             <div class="register-link">
-                                <p>Don't have an account?<a href="/Componentes/cadastro/cadastro.html">Register</a> </p>
+                                <p>Do you have an account?<a href="/Componentes/login/login.html">Login</a> </p>
                             </div>
 
 
