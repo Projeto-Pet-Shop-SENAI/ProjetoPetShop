@@ -23,15 +23,24 @@
 - ### Iniciar o FrontEnd | BackEnd da página de Login
 - ### Iniciar o FrontEnd | BackEnd da página de Cadastro
 - ### Criação das Tabelas no banco de dados | MySQL
-- ### Terminar a Página Index de acordo com o Figma
 - ### Criar todas as Rotas das páginas (Angular)
-- ### Documentação mais Robusta
+
 
 ## `SEMANA 4` | 06.11 - 10.11 - SPRINT II
-
+- ### Terminar a Página Index de acordo com o Figma
+- ### Documentação mais Robusta
+- ### Iniciar a página de Produtos
+- ### Pesquisa sobre carrinho de compras em js
+  
 ## `SEMANA 5` | 13.11 - 17.11
+- ### Terminar a página de produtos
+- ### Iniciar o carrinho de compras em js
+- ### Pesquisa sobre API de checkout (payment)
+- ### Iniciar o FrontEnd da página de Agendamento
 
 ## `SEMANA 6` | 21.11 - 24.11 - SPRINT III
+- ### Pesquisa sobre integração da página de agendamentos com banco de dados, de acordo com o usuário
+- ### 
 
 ## `SEMANA 7` | 27.11 - 01.12
 
