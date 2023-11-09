@@ -29,7 +29,7 @@
 ## `SEMANA 4` | 06.11 - 10.11 - SPRINT II
 - ### Terminar a Página Index de acordo com o Figma
 - ### Documentação mais Robusta ✅
-- ### Iniciar a página de Produtos 
+- ### Iniciar a página de Produtos ✅
 - ### Pesquisa sobre carrinho de compras em js
   
 ## `SEMANA 5` | 13.11 - 17.11
