@@ -1,70 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
 }
 
-body{
-    background-image: url(img/background.png);
+html{
+  height: 500vh;
+  background-color: #ffffff;
+}
+
+.container{
+  max-width: 1280px;
+  margin: auto;
+}
+
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 header{
-    font-family: Marcellus SC;
-    background-color: transparent;
-    width: 100%;
-    height: 100px;
-    display: flex;
-    align-items: center;
-
-    
+  width: 100%;
+  padding: 60px 4%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: .5s;
+  font-family: 'Marcellus', serif;
 }
 
-header img{
-    height: 180px;
-    margin-top: 100px;
+header.rolagem{
+  background-color: #0c3f0f;
+  padding: 20px 4%;
 }
 
-header .linkMenu{
-    text-decoration: none;   /* remove o traço do hiperlink*/
-    font-size: 20px;
-    color: black;
-    display: flex;
-    align-items: center;
-    margin-left: 30px;
-    margin-right: 30px;
-    font-size: 25px;
-    margin-top: 50px;
+header.rolagem a, header.rolagem i{
+  color: #ffffff;
 }
 
-header .linkMenu:hover{
-    color: green;
+header i{
+  font-size: 30px;
+  color: #fff;
 }
 
-header .menu{
-    width: 100%;
-    display: flex;
-    justify-content: flex-end; /* adiciona espaço entre os linkMenus */
-    align-items: center;
-    margin-left: 10px;
+header ul{
+  list-style-type: none;
 }
 
-.botao {
-    color: rgb(255, 255, 255); ;
-    padding: 5px 8px;
-    cursor: pointer;
-    font-size: 20px;
-    border: none;
-    background-color: rgb(255, 170, 0);
-    border-radius: 10px;
-    margin-right: 20px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    margin-top: 50px;
+header ul li{
+  display: inline-block;
+  margin: 0 40px;
 }
 
-.botao:hover{
-    color: rgb(255, 255, 255);
-    background-color: rgb(70, 184, 20);
+header ul li a{
+  color: #fff;
+  text-decoration: none;
+}
 
+.btn-contato button{
+  width: 120px;
+  height: 40px;
+  border: 0;
+  background-color: #4c975b;
+  color: #fff;
+  cursor: pointer;
+  transition: .2s;
+  border: none; 
+  border-radius: 40px;
+  font-family: 'Marcellus', serif;
+}
+
+.banner{
+  height: 100vh;
+  background-image: url(img/field-grass-landscape-farm.jpg);
+  background-position: 100% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.banner h1{
+  font-size: 4em;
+  font-family: 'Alata', sans-serif;
+}
+
+.banner h1 span{
+  color: #FFAE81;
+  font-family: 'Alata', sans-serif;
 }
