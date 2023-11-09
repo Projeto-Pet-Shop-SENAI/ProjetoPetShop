@@ -81,6 +81,7 @@
 #### - Implementação de animações suaves
 #### - Validação de entradas (banco de dados)
 #### - Trabalho forte em grupo
+#### - Dashboard 
 
 <p align="center">
     <img src="https://imagens.mdig.com.br/thbs/45184mn.jpg" height="400" tittle="logo_animalia">
