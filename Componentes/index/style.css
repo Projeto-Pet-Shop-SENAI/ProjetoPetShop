@@ -9,7 +9,7 @@
   
 }
 
-html{
+body{
   height: 500vh;
   background-color: #ffffff;
 }
@@ -36,17 +36,12 @@ header{
 }
 
 header.rolagem{
-  background-color: #0c3f0f;
+  background-color: transparent;
   padding: 20px 4%;
 }
 
 header.rolagem a, header.rolagem i{
-  color: #ffffff;
-}
-
-header i{
-  font-size: 30px;
-  color: #fff;
+  color: #000000;
 }
 
 header ul{
@@ -59,7 +54,7 @@ header ul li{
 }
 
 header ul li a{
-  color: #fff;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -82,19 +77,50 @@ header ul li a{
   background-position: 100% 0;
   background-repeat: no-repeat;
   background-size: cover;
-
   display: flex;
   align-items: center;
-  justify-content: center;
-  font-family: 'Poppins', sans-serif;
+  justify-content: space-evenly;
+  font-family: 'Marcellus', serif;
+
 }
 
-.banner h1{
-  font-size: 4em;
-  font-family: 'Alata', sans-serif;
+.initial{
+  margin-left: -500px;
+  color: #ffffff;
+  font-size: 35px;
+  font-family: 'Marcellus', serif;
+  width: 700px;
+  letter-spacing: 5px;
+  word-wrap:10px;
+  margin-top: 150px;
+  background-color: #0000003b;
+  padding: 15px;
+  border-radius: 20px;
 }
 
-.banner h1 span{
-  color: #FFAE81;
-  font-family: 'Alata', sans-serif;
+.initial span{
+  color: #4c975b;
+}
+
+.imagem img{
+  border-radius: 20px;
+}
+
+.initial button{
+  width: 120px;
+  height: 40px;
+  border: 0;
+  background-color: #EE9C2E;
+  color: #fff;
+  cursor: pointer;
+  transition: .2s;
+  border: none; 
+  border-radius: 40px;
+  font-family: 'Marcellus', serif;
+}
+
+.second{
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
