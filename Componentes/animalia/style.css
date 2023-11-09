@@ -1,69 +1,100 @@
 
+<<<<<<< HEAD:Animalia/style.css
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+=======
   @import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Merriweather&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+>>>>>>> 9cf4bf5a54f665e43db5b64b8ad6a69088db4acb:Componentes/animalia/style.css
 
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
 }
 
 html{
+<<<<<<< HEAD:Animalia/style.css
+  height: 500vh;
+  background-color: #ffffff;
+=======
     height: 500vh;
     background-color: #ffffff;
+>>>>>>> 9cf4bf5a54f665e43db5b64b8ad6a69088db4acb:Componentes/animalia/style.css
 }
 
 .container{
-    max-width: 1280px;
-    margin: auto;
+  max-width: 1280px;
+  margin: auto;
 }
 
 .flex{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 header{
-    width: 100%;
-    padding: 60px 4%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    transition: .5s;
-    font-family: 'Marcellus', serif;
+  width: 100%;
+  padding: 60px 4%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: .5s;
+  font-family: 'Marcellus', serif;
 }
 
 header.rolagem{
+<<<<<<< HEAD:Animalia/style.css
+  background-color: #0c3f0f;
+  padding: 20px 4%;
+}
+
+header.rolagem a, header.rolagem i{
+  color: #ffffff;
+=======
     background-color: #0c3f0f;
     padding: 20px 4%;
 }
 
 header.rolagem a, header.rolagem i{
     color: #ffffff;
+>>>>>>> 9cf4bf5a54f665e43db5b64b8ad6a69088db4acb:Componentes/animalia/style.css
 }
 
 header i{
-    font-size: 30px;
-    color: #fff;
+  font-size: 30px;
+  color: #fff;
 }
 
 header ul{
-    list-style-type: none;
+  list-style-type: none;
 }
 
 header ul li{
-    display: inline-block;
-    margin: 0 40px;
+  display: inline-block;
+  margin: 0 40px;
 }
 
 header ul li a{
-    color: #fff;
-    text-decoration: none;
+  color: #fff;
+  text-decoration: none;
 }
 
 .btn-contato button{
+<<<<<<< HEAD:Animalia/style.css
+  width: 120px;
+  height: 40px;
+  border: 0;
+  background-color: #4c975b;
+  color: #fff;
+  cursor: pointer;
+  transition: .2s;
+  border: none; 
+  border-radius: 40px;
+  font-family: 'Marcellus', serif;
+=======
     width: 120px;
     height: 40px;
     border: 0;
@@ -74,15 +105,33 @@ header ul li a{
     border: none; 
     border-radius: 40px;
     font-family: 'Marcellus', serif;
+>>>>>>> 9cf4bf5a54f665e43db5b64b8ad6a69088db4acb:Componentes/animalia/style.css
 }
 
 .banner{
-    height: 100vh;
-    background-image: url(img/field-grass-landscape-farm.jpg);
-    background-position: 100% 0;
-    background-repeat: no-repeat;
-    background-size: cover;
+  height: 100vh;
+  background-image: url(img/field-grass-landscape-farm.jpg);
+  background-position: 100% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
 
+<<<<<<< HEAD:Animalia/style.css
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.banner h1{
+  font-size: 4em;
+  font-family: 'Alata', sans-serif;
+}
+
+.banner h1 span{
+  color: #FFAE81;
+  font-family: 'Alata', sans-serif;
+}
+=======
     display: flex;
     align-items: center;
     justify-content: center;
@@ -98,3 +147,4 @@ header ul li a{
     color: #FFAE81;
     font-family: 'Alata', sans-serif;
 }
+>>>>>>> 9cf4bf5a54f665e43db5b64b8ad6a69088db4acb:Componentes/animalia/style.css
