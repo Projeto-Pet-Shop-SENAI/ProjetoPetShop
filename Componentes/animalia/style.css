@@ -1,6 +1,6 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Merriweather&display=swap');
-
+  @import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
 
 *{
     margin: 0;
@@ -11,7 +11,7 @@
 
 html{
     height: 500vh;
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 .container{
@@ -36,12 +36,12 @@ header{
 }
 
 header.rolagem{
-    background-color: #fff;
+    background-color: #0c3f0f;
     padding: 20px 4%;
 }
 
 header.rolagem a, header.rolagem i{
-    color: #FE775A;
+    color: #ffffff;
 }
 
 header i{
@@ -67,12 +67,13 @@ header ul li a{
     width: 120px;
     height: 40px;
     border: 0;
-    background-color: #FE775A;
+    background-color: #4c975b;
     color: #fff;
     cursor: pointer;
     transition: .2s;
     border: none; 
     border-radius: 40px;
+    font-family: 'Marcellus', serif;
 }
 
 .banner{
@@ -85,12 +86,15 @@ header ul li a{
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Poppins', sans-serif;
 }
 
 .banner h1{
     font-size: 4em;
+    font-family: 'Alata', sans-serif;
 }
 
 .banner h1 span{
     color: #FFAE81;
+    font-family: 'Alata', sans-serif;
 }
