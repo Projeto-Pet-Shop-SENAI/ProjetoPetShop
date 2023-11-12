@@ -11,7 +11,7 @@
 - ### Análise dos critérios ✅ https://docs.google.com/document/d/1IiTYOE_4zdW8d32duOPAI66vpmHdooxx4M6nswpHXts/edit
 
 
-## `SEMANA 2` | 23.10 - 27.10 - SPRINT I
+## `SEMANA 2` | 23.10 - 27.10 - `SPRINT I`
 - ### Definição do tema do Projeto ✅
 - ### Concluir Figma ✅
 - ### Início do código | Front-End | Página Index ✅
@@ -26,7 +26,7 @@
 - ### Criar todas as Rotas das páginas (Angular) ✅
 
 
-## `SEMANA 4` | 06.11 - 10.11 - SPRINT II
+## `SEMANA 4` | 06.11 - 10.11 - `SPRINT II`
 - ### Terminar a Página Index de acordo com o Figma
 - ### Documentação mais Robusta ✅
 - ### Iniciar a página de Produtos ✅
@@ -38,12 +38,12 @@
 - ### Iniciar o FrontEnd da página de Agendamento
 - ### Criar banners no figma para implementar nos carrosséis
 
-## `SEMANA 6` | 21.11 - 24.11 - SPRINT III
+## `SEMANA 6` | 21.11 - 24.11 - `SPRINT III`
 - ### **Pesquisa sobre integração da página de agendamentos com banco de dados, de acordo com o usuário**
 - ### Iniciar o carrinho de compras em js
 
 ## `SEMANA 7` | 27.11 - 01.12
 
-## `SEMANA 8` | 04.12 - 08.12 - SPRINT FINAL
+## `SEMANA 8` | 04.12 - 08.12 - `SPRINT FINAL`
 
-## `SEMANA 9` | 11.12 - 15.12 - APRESENTAÇÃO E ENTREGA
+## `SEMANA 9` | 11.12 - 15.12 - `APRESENTAÇÃO E ENTREGA`
