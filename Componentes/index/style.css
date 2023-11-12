@@ -36,7 +36,7 @@ body {
 header {
   width: 100%;
   padding: 60px 4%;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   transition: .5s;
@@ -147,3 +147,164 @@ header ul li a:hover {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.wrapper {
+  margin-top: 2%;
+  max-width: 1500px;
+  width: 100%;
+   position: relative; 
+}
+.wrapper i {
+  top: 50%;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+  font-size: 1.25rem;
+  position: absolute;
+  text-align: center;
+  line-height: 50px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.23);
+  transform: translateY(-50%);
+  transition: transform 0.1s linear;
+} 
+ .wrapper i:active{
+  transform: translateY(-50%) scale(0.85);
+} 
+.card .botao-cards{
+  margin-top: 2%;
+  background-color: #000000;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.card .botao-cards:hover{
+  background-color: #489dd2;
+  
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.cart-item-content {
+  display: flex;
+  align-items: center; 
+  gap: 5px; 
+}
+
+
+.cart-item-image {
+  max-width: 45px; 
+  height: auto;
+}
+
+.card2 .botao-cards{
+  margin-top: 2%;
+  background-color: #000000;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.card2 .botao-cards:hover{
+  background-color: #489dd2;
+  
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+.card h3{
+  color: #fff;
+}
+.card2 h3{
+  color: #fff;
+}
+.wrapper i:first-child{
+  left: -22px;
+}
+
+.wrapper i:last-child{
+  right: -22px;
+}
+.wrapper .carouselProducts{
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% / 5) - 12px);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 16px;
+  border-radius: 8px;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+.carouselProducts::-webkit-scrollbar {
+  display: none;
+}
+
+.carouselProducts .card {
+  scroll-snap-align: start;
+  height: 342px;
+  list-style: none;
+  background: #177792;
+  cursor: pointer;
+  padding-bottom: 15px;
+  flex-direction: column;
+  border-radius: 8px;
+  text-align: center;
+}
+.carouselProducts .card2 {
+  scroll-snap-align: start;
+  height: 342px;
+  list-style: none;
+  background: #177792;
+  cursor: pointer;
+  padding-bottom: 15px;
+  flex-direction: column;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.card .img img{
+  width: 140px;
+  height: 160px;
+}
+.card2 .img img{
+  width: 140px;
+  height: 160px;
+}
+
+.carouselProducts .card h2 {
+  font-weight: 500;
+  font-size: 1.56rem;
+  margin: 30px 0 5px;
+}
+.carouselProducts .card span {
+  color: #aca8be;
+  font-size: 1.31rem;
+  margin-bottom: 5%;
+}
+.carouselProducts .card2 h2 {
+  font-weight: 500;
+  font-size: 1.56rem;
+  margin: 30px 0 5px;
+}
+.carouselProducts .card2 .hp h2 {
+  font-weight: 500;
+  font-size: 1.56rem;
+  margin: 30px 0 5px;
+}
+.carouselProducts .card2 span {
+  color: #aca8be;
+  font-size: 1.31rem;
+  margin-bottom: 5%;
+}
+
+ .containerProducts{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
