@@ -41,7 +41,8 @@
 ## `SEMANA 6` | 21.11 - 24.11 - `SPRINT III`
 - ### **Pesquisa sobre integração da página de agendamentos com banco de dados, de acordo com o usuário**
 - ### Iniciar o carrinho de compras em js
-
+- ### Implementar a lógica de cadastro de produtos, virando cards (*curriculos e vagas);
+  
 ## `SEMANA 7` | 27.11 - 01.12
 
 ## `SEMANA 8` | 04.12 - 08.12 - `SPRINT FINAL`
