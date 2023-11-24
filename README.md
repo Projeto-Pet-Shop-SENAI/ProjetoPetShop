@@ -27,24 +27,29 @@
 
 
 ## `SEMANA 4` | 06.11 - 10.11 - `SPRINT II`
-- ### Terminar a Página Index de acordo com o Figma
+- ### Terminar a Página Index de acordo com o Figma ❌
 - ### Documentação mais Robusta ✅
 - ### Iniciar a página de Produtos ✅
   
 ## `SEMANA 5` | 13.11 - 17.11
-- ### Terminar a página de produtos
-- ### Pesquisa sobre carrinho de compras em js
-- ### Pesquisa sobre API de checkout (payment)
-- ### Iniciar o FrontEnd da página de Agendamento
-- ### Criar banners no figma para implementar nos carrosséis
+- ### Criar banners no figma para implementar nos carrosséis ✅
+- ### Criar proteção de rotas em anuglar (auth_guard) ❌
 
 ## `SEMANA 6` | 21.11 - 24.11 - `SPRINT III`
-- ### **Pesquisa sobre integração da página de agendamentos com banco de dados, de acordo com o usuário**
-- ### Iniciar o carrinho de compras em js
-- ### Implementar a lógica de cadastro de produtos, virando cards (*curriculos e vagas);
+- ### Implementar a lógica de cadastro de produtos (*curriculos e vagas); ✅
+- ### Terminar a Página Index de acordo com o Figma 
+- ### Pesquisa sobre carrinho de compras em js ✅
+- ### Criar banners no figma para implementar nos carrosséis ✅
   
 ## `SEMANA 7` | 27.11 - 01.12
-
+- ### Terminar a página de produtos
+- ### Terminar a página index
+- ### Iniciar a página de treinamentos
+- ### Página de cadastro e login para `funcionários`
+  
 ## `SEMANA 8` | 04.12 - 08.12 - `SPRINT FINAL`
+- ### Iniciar o carrinho de compras em js
+- ### Inserir responsividade em todas as páginas
 
 ## `SEMANA 9` | 11.12 - 15.12 - `APRESENTAÇÃO E ENTREGA`
+- ### Entrega e Apresentação do Projeto `FINALIZADO` 🎆🎉✨
