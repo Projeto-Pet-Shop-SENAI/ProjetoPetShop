@@ -53,3 +53,8 @@
 
 ## `SEMANA 9` | 11.12 - 15.12 - `APRESENTAÇÃO E ENTREGA`
 - ### Entrega e Apresentação do Projeto `FINALIZADO` 🎆🎉✨
+
+## Outras Implementações
+- ### Carrinho de Compras 
+- ### Guardar a compra em um banco de dados
+- ### Fotinha e nome no perfil do usuário
