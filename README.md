@@ -37,15 +37,18 @@
 
 ## `SEMANA 6` | 21.11 - 24.11 - `SPRINT III`
 - ### Implementar a lógica de cadastro de produtos (*curriculos e vagas); ✅
-- ### Terminar a Página Index de acordo com o Figma 
+- ### Terminar a Página Index de acordo com o Figma ❌
 - ### Pesquisa sobre carrinho de compras em js ✅
 - ### Criar banners no figma para implementar nos carrosséis ✅
   
 ## `SEMANA 7` | 27.11 - 01.12
-- ### Terminar a página de produtos
+- ### Terminar a página de produtos ✅
 - ### Terminar a página index
 - ### Iniciar a página de treinamentos
-- ### Página de cadastro e login para `funcionários`
+- ### Página de cadastro e login para `funcionários` com CNPJ
+- ### Página Sobre ✅
+- ### Inserir CPF no banco de dados
+- ### Terminar a parte do contato na página Sobre
   
 ## `SEMANA 8` | 04.12 - 08.12 - `SPRINT FINAL`
 - ### Iniciar o carrinho de compras em js
@@ -56,5 +59,6 @@
 
 ## Outras Implementações
 - ### Carrinho de Compras 
-- ### Guardar a compra em um banco de dados
+- ### Registro da compra em um banco de dados
 - ### Fotinha e nome no perfil do usuário
+- ### 
