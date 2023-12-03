@@ -43,22 +43,26 @@
   
 ## `SEMANA 7` | 27.11 - 01.12
 - ### Terminar a página de produtos ✅
-- ### Terminar a página index
-- ### Iniciar a página de treinamentos
-- ### Página de cadastro e login para `funcionários` com CNPJ
+- ### Terminar a página index ✅
+- ### Iniciar a página de treinamentos ❌
 - ### Página Sobre ✅
-- ### Inserir CPF no banco de dados
-- ### Terminar a parte do contato na página Sobre
+- ### Terminar a parte do contato na página Sobre ❌
+- ### Iniciar o carrinho de compras em js ✅
   
 ## `SEMANA 8` | 04.12 - 08.12 - `SPRINT FINAL`
-- ### Iniciar o carrinho de compras em js
-- ### Inserir responsividade em todas as páginas
+- ### Inserir responsividade em todas as páginas (menu hamburguer)
+- ### Terminar o carrinho de compras
+- ### Página de cadastro e login para `funcionários` com CNPJ
+- ### Terminar o filtro por pesquisa
+- ### Tentar a integração da página de pagamento com o carrinho de compras
+- ### Terminar a parte do contato na página Sobre
+- ### Finalizar a `documentação` 
+- ## `ENTREGA - 08/12`
 
-## `SEMANA 9` | 11.12 - 15.12 - `APRESENTAÇÃO E ENTREGA`
-- ### Entrega e Apresentação do Projeto `FINALIZADO` 🎆🎉✨
+## `SEMANA 9` | 11.12 - 15.12 - `APRESENTAÇÃO`
+- ### Apresentação do Projeto `FINALIZADO` 🎆🎉✨
 
 ## Outras Implementações
 - ### Carrinho de Compras 
 - ### Registro da compra em um banco de dados
 - ### Fotinha e nome no perfil do usuário
-- ### 
