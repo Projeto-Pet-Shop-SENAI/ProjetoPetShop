@@ -27,7 +27,7 @@
 
 
 ## `SEMANA 4` | 06.11 - 10.11 - `SPRINT II`
-- ### Terminar a Página Index de acordo com o Figma ❌
+- ### Terminar a Página Index de acordo com o Figma ✅
 - ### Documentação mais Robusta ✅
 - ### Iniciar a página de Produtos ✅
   
@@ -37,7 +37,7 @@
 
 ## `SEMANA 6` | 21.11 - 24.11 - `SPRINT III`
 - ### Implementar a lógica de cadastro de produtos (*curriculos e vagas); ✅
-- ### Terminar a Página Index de acordo com o Figma ❌
+- ### Terminar a Página Index de acordo com o Figma ✅
 - ### Pesquisa sobre carrinho de compras em js ✅
 - ### Criar banners no figma para implementar nos carrosséis ✅
   
@@ -46,7 +46,7 @@
 - ### Terminar a página index ✅
 - ### Iniciar a página de treinamentos ❌
 - ### Página Sobre ✅
-- ### Terminar a parte do contato na página Sobre ❌
+- ### Terminar a parte do contato na página Sobre ✅
 - ### Iniciar o carrinho de compras em js ✅
   
 ## `SEMANA 8` | 04.12 - 08.12 - `SPRINT FINAL`
